@@ -1,0 +1,416 @@
+.type-1118 header {
+  background: #0a3f66;
+}
+.type-1118 header .contact-icon {
+  font-size: 16px;
+  display: block;
+  display: inline-block;
+  margin-left: 0;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.type-1118 header .contact-icon i {
+  color: #ffffff;
+  margin: 0 2px;
+}
+.type-1118 header .contact-icon .fa:hover {
+  color: #4CAF50;
+}
+.type-1118 header .contact-info {
+  margin-top: 10px;
+}
+.type-1118 header .contact-info i {
+  color: white;
+}
+.type-1118 header .contact-info span {
+  color: white;
+  margin-left: 10px;
+}
+.type-1118 header .language-world:hover .language-country {
+  visibility: visible;
+  float: right;
+  -webkit-box-shadow: 0 0 6px 0 rgba(0,0,0,0.17);
+  -webkit-transform: translateX(-10px);
+  -webkit-transition: all 0.3s ease-in;
+  margin-left: 0;
+}
+.type-1118 header .language-world {
+  margin-top: 10px;
+  float: right;
+}
+.type-1118 header .language-world .language {
+  position: relative;
+}
+.type-1118 header .language-world .language a {
+  color: white;
+  text-decoration: none;
+}
+.type-1118 header .language-world .language-country {
+  margin-left: -50px;
+  width: 100px;
+  border: 1px solid white;
+  background-color: white;
+  visibility: hidden;
+  position: absolute;
+  z-index: 1;
+}
+.type-1118 header .language-world .language-country a {
+  display: block;
+  color: #686868;
+  border-bottom: 1px solid #686868;
+  padding: 10px;
+  text-decoration: none;
+}
+.type-1118 header .language-world .language-country a:hover {
+  background: rgba(0,0,0,0.2);
+  color: #fff;
+  transition: all 0.3s ease-in;
+  -webkit-transition: all 0.3s ease-in;
+}
+.type-1118 header .language-world .language-country img {
+  float: right;
+}
+.type-1118 .menu-fage .navbar-brand img {
+  width: 100%;
+}
+.type-1118 .menu-fage .requet {
+  float: right;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-toggle:focus,
+.type-1118 .menu-fage .navbar-inverse .navbar-toggle:hover {
+  background: white;
+}
+.type-1118 .menu-fage .navbar-inverse {
+  margin-top: 20px;
+  background-color: white;
+  border: white;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-header .menu-reponsive {
+  position: absolute;
+  margin-left: -60px;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-header .icon-bar {
+  background: black;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-header .navbar-toggle {
+  border: white;
+}
+.type-1118 .menu-fage .navbar-inverse .requet a {
+  background: #106eaa;
+  padding: 20px 40px;
+  text-decoration: none;
+  color: white;
+  float: right;
+  font-weight: 600;
+  font-size: 15px;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav {
+  margin-top: 15px;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav li a {
+  color: #888888;
+  font-weight: 600;
+  font-size: 15px;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav a:hover {
+  color: #b7b7b7;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav .father-services {
+  position: relative;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav .father-services:hover .menu-services {
+  visibility: visible;
+  margin-top: 0;
+  z-index: 1;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav .menu-services {
+  background: white;
+  box-shadow: 1px 1px 1px 1px;
+  position: absolute;
+  border: 1px solid white;
+  width: 180px;
+  visibility: hidden;
+  padding: 0 20px;
+  list-style: none;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav .menu-services li {
+  padding: 5px 0;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav .menu-services li a {
+  text-decoration: none;
+  font-weight: normal;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav .menu-services li a:hover {
+  color: #b7b7b7;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav .father-services2 {
+  position: relative;
+  z-index: 1;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav .menu-services2 {
+  background: white;
+  display: none;
+  padding: 0 20px;
+  list-style: none;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav .menu-services2 li {
+  padding: 5px 0;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav .menu-services2 li a {
+  text-decoration: none;
+  font-weight: normal;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav .menu-services2 li a:hover {
+  color: #b7b7b7;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav .menu-father {
+  position: relative;
+  z-index: 1;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav .menu-father:hover .menu-brother {
+  visibility: visible;
+  margin-top: 0;
+  z-index: 1;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav .menu-brother {
+  background: white;
+  box-shadow: 1px 1px 1px 1px;
+  position: absolute;
+  visibility: hidden;
+  border: 1px solid white;
+  width: 180px;
+  padding: 0 20px;
+  list-style: none;
+  z-index: 1;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav .menu-brother li {
+  padding: 5px 0;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav .menu-brother li a {
+  text-decoration: none;
+  font-weight: normal;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav .menu-brother li a:hover {
+  color: #b7b7b7;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav .gallary-home {
+  list-style: none;
+  margin-top: 20px;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav .gallary-home a {
+  text-decoration: none;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav .menu-home {
+  list-style: none;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav .menu-home a {
+  text-decoration: none;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav .blog-home {
+  margin-top: 20px;
+  list-style: none;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav .blog-home a {
+  text-decoration: none;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav .about-home {
+  margin-top: 20px;
+  list-style: none;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav .about-home a {
+  text-decoration: none;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav .contact-home {
+  margin-top: 20px;
+  list-style: none;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav .contact-home a {
+  text-decoration: none;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav .menu-secvices {
+  margin-top: 20px;
+  list-style: none;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav .menu-secvices a {
+  text-decoration: none;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav .menu-father2 {
+  position: relative;
+  z-index: 1;
+  background: white;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav .menu-brother2 {
+  position: absolute;
+  display: none;
+  padding: 0 20px;
+  list-style: none;
+  z-index: 1;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav .menu-brother2 li {
+  padding: 5px 0;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav .menu-brother2 li a {
+  text-decoration: none;
+  font-weight: normal;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-nav .menu-brother2 li a:hover {
+  color: #b7b7b7;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .father-services2 {
+  position: relative;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .menu-services {
+  background: white;
+  box-shadow: 1px 1px 1px 1px #FFF;
+  position: absolute;
+  border: 1px solid white;
+  width: 180px;
+  visibility: hidden;
+  padding: 0 20px;
+  list-style: none;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .menu-services li {
+  padding: 5px 0;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .menu-services li a {
+  text-decoration: none;
+  font-weight: normal;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .menu-services li a:hover {
+  color: #b7b7b7;
+}
+.type-1118 .menu-fage .navbar-inverse .navbar-collapse .navbar-inverse .navbar-form {
+  border: none;
+}
+@media (max-width: 1920px) and (min-width: 768px) {
+  .type-1118 .menu-father2 {
+    display: none;
+  }
+  .type-1118 .father-services2 {
+    display: none;
+  }
+  .type-1118 .menu-brother2 {
+    display: none;
+  }
+  .type-1118 .menu-home {
+    display: none;
+  }
+  .type-1118 .about-menu1 {
+    display: none;
+  }
+  .type-1118 .gallayry-menu1 {
+    display: none;
+  }
+  .type-1118 .blog-menu1 {
+    display: none;
+  }
+  .type-1118 .contact-menu1 {
+    display: none;
+  }
+  .type-1118 .gallary-home {
+    display: none;
+  }
+  .type-1118 .about-home {
+    display: none;
+  }
+  .type-1118 .blog-home {
+    display: none;
+  }
+  .type-1118 .contact-home {
+    display: none;
+  }
+  .type-1118 .menu-secvices {
+    display: none;
+  }
+}
+@media (max-width: 1200px) {
+  .type-1118 .contact-number {
+    position: relative;
+    margin-left: 80px;
+    white-space: nowrap;
+  }
+  .type-1118 .contact-address {
+    white-space: nowrap;
+  }
+  .type-1118 .fa:hover {
+    color: #4CAF50;
+  }
+}
+@media (max-width: 768px) {
+  .type-1118 
+
+    .menu-fage 
+    .navbar-inverse {
+    margin-top: 0;
+  }
+  .type-1118 
+
+    .menu-fage 
+    .navbar-inverse .navbar-collapse {
+    margin-top: 10px;
+    border-color: white;
+  }
+  .type-1118 
+
+    .menu-fage 
+    .navbar-inverse .navbar-collapse .menu-brother {
+    display: none;
+  }
+  .type-1118 
+
+    .menu-fage 
+    .navbar-inverse .navbar-collapse .menu-father {
+    display: none;
+  }
+  .type-1118 
+
+    .menu-fage 
+    .navbar-inverse .navbar-collapse .menu-father2 {
+    display: block;
+  }
+  .type-1118 
+
+    .menu-fage 
+    .navbar-inverse .navbar-collapse .menu-services {
+    display: none;
+  }
+  .type-1118 
+
+    .menu-fage 
+    .navbar-inverse .navbar-collapse .father-services {
+    display: none;
+  }
+  .type-1118 
+
+    .menu-fage 
+    .navbar-inverse .navbar-collapse .about-menu {
+    display: none;
+  }
+  .type-1118 
+
+    .menu-fage 
+    .navbar-inverse .navbar-collapse .gallayry-menu {
+    display: none;
+  }
+  .type-1118 
+
+    .menu-fage 
+    .navbar-inverse .navbar-collapse .blog-menu {
+    display: none;
+  }
+  .type-1118 
+
+    .menu-fage 
+    .navbar-inverse .navbar-collapse .contact-menu {
+    display: none;
+  }
+  .menu-fage  .requet {
+    display: none;
+  }
+}
+@media (max-width: 733px) {
+  .type-1118 .contact-info {
+    display: none;
+  }
+}

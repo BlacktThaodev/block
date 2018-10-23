@@ -1,0 +1,107 @@
+.type-1122 .owl-carousel .owl-stage-outer {
+  background: #f7f7f7;
+}
+.type-1122 .owl-carousel .right-border-right {
+  border-right: 1px solid black;
+}
+.type-1122 .owl-carousel .right-border-right .count {
+  font-size: 48px;
+}
+.type-1122 .owl-carousel .right-border-right .font-title {
+  color: #8787a7;
+}
+.type-1122 .owl-carousel .right-border-right .font-title .fa-user {
+  color: #73879c;
+}
+.type-1122 .owl-carousel .right-border-right .count {
+  color: #8787a7;
+}
+.type-1122 .owl-carousel .right-border-right .green {
+  color: #1abb9c;
+}
+.type-1122 .owl-carousel .right-border-right .red {
+  color: #e74c3c;
+}
+.type-1122 .owl-carousel .owl-next {
+  position: absolute;
+  right: 0;
+  top: 25px;
+  background: none !important;
+  font-size: 50px !important;
+  background: none;
+  outline: none;
+}
+.type-1122 .owl-carousel .owl-prev {
+  position: absolute;
+  font-size: 50px !important;
+  left: 0;
+  top: 25px;
+  background: none !important;
+  outline: none;
+}
+@media only screen and (max-width: 1024px) {
+  .type-1122 #demos .owl-carousel .item {
+    width: 10.5rem;
+    text-align: center;
+  }
+}
+@media only screen and (max-width: 800px) {
+  .type-1122 #demos .owl-carousel .item {
+    width: 15rem;
+    text-align: center;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .type-1122 #demos .owl-carousel .item {
+    width: 14rem;
+    text-align: center;
+  }
+}
+@media only screen and (max-width: 603px) {
+  .type-1122 #demos .owl-carousel .item {
+    width: 10.5rem;
+    text-align: center;
+  }
+}
+@media only screen and (max-width: 599px) {
+  .type-1122 #demos .owl-carousel .item {
+    width: 32rem;
+    text-align: center;
+  }
+}
+@media only screen and (max-width: 533px) {
+  .type-1122 #demos .owl-carousel .item {
+    width: 28rem;
+    text-align: center;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .type-1122 #demos .owl-carousel .item {
+    width: 24rem;
+    text-align: center;
+  }
+}
+@media only screen and (max-width: 424px) {
+  .type-1122 #demos .owl-carousel .item {
+    width: 22rem;
+    text-align: center;
+  }
+}
+@media only screen and (max-width: 384px) {
+  .type-1122 #demos .owl-carousel .item {
+    width: 18rem;
+    text-align: center;
+  }
+}
+@media only screen and (max-width: 360px) {
+  .type-1122 #demos .owl-carousel .item {
+    width: 18rem;
+    text-align: center;
+  }
+}
+@media only screen and (max-width: 320px) {
+  .type-1122 #demos .owl-carousel .item {
+    width: 15rem;
+    text-align: center;
+  }
+}

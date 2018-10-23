@@ -1,0 +1,103 @@
+.module-1113 .fluid-question ul {
+  border-bottom: 1px solid #106EAA;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.module-1113 .fluid-question ul li {
+  margin: 1px 0 0 1px;
+  display: inline-block;
+  border: 1px solid #e3e3e3;
+  background-color: transparent;
+  color: #666;
+  padding: 14px 20px;
+  margin-right: -4px;
+  transition: 0.3s ease-in;
+  font-size: 14px;
+  cursor: spointer;
+}
+.module-1113 .fluid-question ul .active-li {
+  border-color: #106EAA;
+  background-color: #106EAA !important;
+  color: #FFF;
+  cursor: auto;
+}
+.module-1113 .fluid-question ul .text-li2 {
+  display: none;
+}
+.module-1113 .fluid-question .text-li {
+  margin-top: 10px;
+}
+.module-1113 .panel-group .panel-default {
+  border: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+.module-1113 .panel-group .panel-default .backgroud-heading1 {
+  background: #106eaa;
+}
+.module-1113 .panel-group .panel-default .backgroud-heading2 {
+  background-color: white;
+}
+.module-1113 .panel-group .panel-default .backgroud-heading3 {
+  background-color: white;
+}
+.module-1113 .panel-group .panel-default .panel-heading {
+  border: 1px solid #106eaa;
+}
+.module-1113 .panel-group .panel-default .panel-heading .panel-title .fa-life-ring {
+  color: white;
+}
+.module-1113 .panel-group .panel-default .panel-heading .panel-title .fa-plus {
+  float: right;
+  color: #858d94;
+}
+.module-1113 .panel-group .panel-default .panel-heading .panel-title .clicka1 {
+  display: none;
+}
+.module-1113 .panel-group .panel-default .panel-heading .panel-title .clickb2 {
+  display: none;
+}
+.module-1113 .panel-group .panel-default .panel-heading .panel-title .clickc2 {
+  display: none;
+}
+.module-1113 .panel-group .panel-default .panel-heading .panel-title .fa-minus {
+  float: right;
+  color: white;
+}
+.module-1113 .panel-group .panel-default .panel-heading .panel-title .b2 {
+  color: #666;
+}
+.module-1113 .panel-group .panel-default .panel-heading .panel-title .text1 {
+  color: white;
+}
+.module-1113 .panel-group .panel-default .panel-heading .panel-title .text2 {
+  color: #666;
+}
+.module-1113 .panel-group .panel-default .panel-heading .panel-title .text3 {
+  color: #666;
+}
+@media (max-width: 991px) {
+  .fluid .fluid-question ul li {
+    display: block;
+  }
+  .fluid .fluid-question ul .text-li {
+    position: static;
+    border: none;
+  }
+}
+@media (max-width: 768px) {
+  .fluid-question ul li {
+    display: block !important;
+  }
+  .fluid-question ul .text-li {
+    border: none;
+  }
+  .fluid-question ul .text-li1 {
+    position: static !important;
+  }
+  .fluid {
+    margin: 0px;
+    margin-top: 50px;
+  }
+}

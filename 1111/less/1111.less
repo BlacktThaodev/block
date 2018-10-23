@@ -1,0 +1,92 @@
+@xanhlama:#a8a230;
+@zero:0;
+
+.wd-row{
+    margin-top: 90px;
+
+    .content-banner{
+        margin:@zero;
+        padding:@zero;
+        .pic-wd{
+
+            img{
+                width: 100%;
+            }
+        }
+        p{
+            padding: 5px 15px 20px 5px;
+            color: #999;
+        }
+        h1{
+            padding: 14px 15px 0px 5px;
+            font-weight: 600;
+            line-height: 1.4;
+            font-size: 18px;
+            color: #333;
+            margin-top: 10px; 
+
+        }
+        h1:hover{
+            color: #a8a230;
+        }
+    }
+    .content-banner2
+    {
+        margin:@zero;
+        padding:@zero;
+        .style{
+            .pic-wd {
+                padding: 0 20px 0 0;
+                float: left !important;
+
+            }
+
+            .text-wd{
+                h2{
+                    font-weight: bold;
+                    font-size: 14px;
+                    margin: @zero;
+
+                }
+                h2:hover{
+                    color:@xanhlama;
+                }
+                p{
+                    margin-bottom: 25px;
+                    padding: @zero;
+                    color: #999;
+                    font-size: 15px;
+                }
+            }
+        }
+    }
+}
+@media only screen and (max-width: 1024px){
+    .content{
+        margin:@zero;
+        padding: @zero;
+    }
+    .wd-row .content-banner2 .style .pic-wd img{
+        margin-bottom: 25px;
+
+    }
+
+}
+@media only screen and (max-width: 480px) {
+    .wd-row .content-banner2 .style .text-wd p{
+
+        font-size: 12px;
+    }
+    .wd-row .content-banner2 .style .text-wd h2{
+
+        font-size: 12px;
+
+    }
+    .wd-row .content-banner h1{
+        font-size: 12px;
+    }
+
+    .wd-row .content-banner p{
+        font-size: 12px;
+    }
+}

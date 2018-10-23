@@ -1,0 +1,97 @@
+footer {
+  background-color: #272727;
+}
+footer h2 {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 25px;
+  color: #fff;
+  letter-spacing: 1px;
+}
+footer p {
+  margin-bottom: 1.42857em;
+  color: #FFF;
+}
+footer .footermin1 {
+  margin-top: 40px;
+}
+footer .footermin2 {
+  margin-top: 40px;
+}
+footer .footermin2 a {
+  color: #AAA;
+}
+footer .footermin2 p i {
+  margin-right: 5px;
+}
+footer .footermin3 {
+  margin-top: 40px;
+}
+footer .footermin3 .post-title ul {
+  padding-left: 0px;
+  line-height: 1.6;
+  list-style: none;
+}
+footer .footermin3 .post-title ul li {
+  padding-bottom: 10px;
+}
+footer .footermin3 .post-title ul li .pic-post {
+  float: left !important;
+}
+footer .footermin3 .post-title ul li .pic-post img {
+  margin-right: 10px;
+  margin-top: 5px;
+  width: 70px;
+  height: 45px;
+}
+footer .footermin3 .post-title ul li .text-post h3 {
+  color: #FFF;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: .5px;
+  line-height: 22px;
+  margin: 0;
+}
+footer .footermin3 .post-title ul li .text-post h3 a:hover {
+  color: #FFF;
+}
+footer .footermin3 .post-title ul li .text-post h3 a {
+  color: #FFF;
+}
+footer .footermin3 .post-title ul li .text-post p {
+  color: #6f6f6f;
+}
+footer .footermin4 {
+  margin-top: 40px;
+}
+footer .footermin4 .nav-title ul {
+  padding-left: 0px;
+  list-style: none;
+}
+footer .footermin4 .nav-title ul li a {
+  color: #AAA;
+  line-height: 28px;
+}
+.footer-final {
+  background-color: #1f1f1f;
+  padding-top: 1em;
+}
+.footer-final p:first-child a:hover {
+  text-decoration: underline;
+  color: #106eaa;
+}
+.footer-final p:first-child a {
+  color: #FFF;
+}
+.footer-final p:last-child {
+  float: right;
+  color: #777;
+}
+@media screen and (max-width: 1200px) {
+  footer .footermin4 {
+    margin-top: 0;
+  }
+  footer .footermin3 {
+    margin-top: 0;
+  }
+}

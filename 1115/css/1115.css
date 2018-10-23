@@ -1,0 +1,41 @@
+.module-1115 .swiper-container {
+  width: 100%;
+  height: 100%;
+  background: white;
+  text-align: center;
+}
+.module-1115 .swiper-container .swiper-slide {
+  font-weight: 900;
+  font-style: italic;
+  line-height: 32px;
+  font-size: 18px;
+  color: black;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 40px 60px;
+}
+.module-1115 .swiper-container h6 {
+  font-weight: 600;
+  font-size: 18px;
+  color: #000000;
+  font-style: normal;
+}
+.module-1115 .swiper-container .img-author img {
+  border-radius: 150px;
+  border: 1px solid black;
+}
+.module-1115 .swiper-container .turn-left-right .swiper-button-prev .fa-angle-left {
+  opacity: 1;
+  font-size: 50px;
+  color: black;
+}
+.module-1115 .swiper-container .turn-left-right .swiper-button-next .fa-angle-right {
+  opacity: 1;
+  font-size: 50px;
+  color: black;
+}
+@media screen and (max-width: 1200px) {
+  .module-1115 .fa-quote-left {
+    left: 17px;
+  }
+}

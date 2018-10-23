@@ -1,0 +1,62 @@
+.module-1114 {
+  background-image: url(../images/oil.jpg) !important;
+}
+.module-1114 h2 {
+  font-weight: 400;
+  margin: 0;
+  color: #ffffff;
+  font-size: 3.3125rem;
+  text-align: center !important;
+  margin: 80px 0 30px 0;
+}
+.module-1114 h3 {
+  margin-top: 0.9rem;
+}
+.module-1114 img {
+  width: 100%;
+  max-height: auto;
+}
+.module-1114 .wfrowmin {
+  margin-bottom: 85px;
+}
+.module-1114 .text-wfrowmin {
+  background: rgba(255,255,255,0.89);
+  padding-left: 10px;
+  padding-bottom: 20px;
+  padding: 5px 20px 25px 25px;
+}
+.module-1114 a {
+  font-size: 18px;
+  color: #333;
+  line-height: 28px;
+  text-decoration: none;
+  margin-bottom: 20px;
+  font-weight: 600;
+}
+.module-1114 p {
+  color: #777;
+  padding-bottom: 20px;
+  line-height: 1.714;
+  font-size: 15px;
+  margin-bottom: 20px;
+  padding: 0;
+}
+.module-1114 .button:hover {
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #106EAA;
+  border-color: #106EAA;
+  color: #fff;
+}
+.module-1114 .button {
+  font-size: 11px;
+  padding: 0.9rem 1.9rem 0.9rem 1.7rem;
+  background: transparent;
+  border: 1px solid #cfcfd0;
+  transition: .4s;
+  text-transform: uppercase;
+  margin: 0 0 1.25rem;
+  text-decoration: none;
+  margin-bottom: 2px;
+  color: #555;
+}
